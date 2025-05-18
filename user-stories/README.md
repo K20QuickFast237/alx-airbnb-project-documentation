@@ -1,3 +1,3 @@
 ## User stories
 
-This folder shows the main user stories of this app.
+This folder shows the main user stories of this application.
